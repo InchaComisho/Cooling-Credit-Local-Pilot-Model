@@ -4,6 +4,8 @@
 
 [日本語](README_ja.md) | [English](README.md) | [العربية](README_ar.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 Related NOTE article: [クーリングクレジット小規模導入モデル](https://note.com/inchacomusho/n/n7d8b58455ead)
 
 ![Small-Scale Cooling Credit Implementation](images/Cooling-Credit-point-EN.png)
