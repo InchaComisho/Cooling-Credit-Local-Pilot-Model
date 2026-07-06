@@ -12,6 +12,20 @@
 
 ---
 
+## シミュレーション結果
+
+![Simulation Results: Local Pilot Implementation vs No Action](images/Cooling-Credit-Local-Pilot-Model.png)
+
+この図は、クーリングクレジット小規模導入を継続した場合と、一切実行しなかった場合の差を示す概念的比較である。左のグラフは暑熱負荷指数で、No Action は2036年に 131.8 まで上昇する一方、Local Pilot Implementation は 109.8 に抑制される。右のグラフは導入規模の拡大を示し、実施地点数は 1 から 80、Local Cooling Points は 0.1 から 159.0 へ増加する。
+
+これは未来予測ではなく、地域で測り、冷やし、記録した場合に蓄積される冷却能力の差を示す構造比較モデルである。
+
+- [シミュレーション解説](docs/LOCAL_PILOT_ADOPTION_SIMULATION_ja.md)
+- [シミュレーションコード](simulations/local_pilot_adoption_vs_no_action_sim.py)
+- [シミュレーション結果CSV](simulations/local_pilot_adoption_vs_no_action_results.csv)
+
+---
+
 ## 実装用リンク
 
 このリポジトリは、読むためだけではなく、地域で実際に試すための道具箱として構成している。
@@ -23,8 +37,6 @@
 - [local_cooling_mrv_template.csv](templates/local_cooling_mrv_template.csv) — 地域冷却MRV記録表
 - [cooling_point_record_sheet.csv](templates/cooling_point_record_sheet.csv) — 地域冷却ポイント台帳
 - [pilot_site_checklist_ja.md](templates/pilot_site_checklist_ja.md) — 小規模導入チェックリスト
-- [local_pilot_adoption_vs_no_action_sim.py](simulations/local_pilot_adoption_vs_no_action_sim.py) — 比較シミュレーションコード
-- [local_pilot_adoption_vs_no_action_results.csv](simulations/local_pilot_adoption_vs_no_action_results.csv) — シミュレーション結果CSV
 
 ```text
 場所を決める
