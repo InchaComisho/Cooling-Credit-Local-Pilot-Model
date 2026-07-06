@@ -12,6 +12,20 @@
 
 ---
 
+## نتائج المحاكاة
+
+![Simulation Results: Local Pilot Implementation vs No Action](images/Cooling-Credit-Local-Pilot-Model.png)
+
+يوضح هذا الشكل مقارنة مفاهيمية بين الاستمرار في تطبيق نموذج محلي لأرصدة التبريد وبين عدم اتخاذ أي إجراء. يبين الرسم الأيسر مؤشر عبء الحرارة: ففي عام 2036 يرتفع سيناريو عدم التنفيذ إلى 131.8، بينما ينخفض في سيناريو التنفيذ المحلي إلى 109.8. ويعرض الرسم الأيمن التوسع في التطبيق، حيث يرتفع عدد مواقع التنفيذ من 1 إلى 80، وتزداد نقاط التبريد المحلية من 0.1 إلى 159.0.
+
+هذا ليس تنبؤاً بالمستقبل، بل نموذج مقارنة بنيوي يوضح الفرق في القدرة التبريدية المتراكمة عندما تقوم المجتمعات بالقياس والتبريد والتسجيل.
+
+- [شرح المحاكاة](docs/LOCAL_PILOT_ADOPTION_SIMULATION_ar.md)
+- [شفرة المحاكاة](simulations/local_pilot_adoption_vs_no_action_sim.py)
+- [نتائج المحاكاة CSV](simulations/local_pilot_adoption_vs_no_action_results.csv)
+
+---
+
 ## روابط التنفيذ والقوالب
 
 هذا المستودع ليس وثيقة مفاهيمية فقط، بل صندوق أدوات عملي للتطبيق المحلي الصغير.
@@ -23,8 +37,6 @@
 - [local_cooling_mrv_template.csv](templates/local_cooling_mrv_template.csv) — نموذج تسجيل MRV للتبريد المحلي
 - [cooling_point_record_sheet.csv](templates/cooling_point_record_sheet.csv) — سجل نقاط التبريد المحلية
 - [pilot_site_checklist_ar.md](templates/pilot_site_checklist_ar.md) — قائمة تحقق للتجربة المحلية الصغيرة
-- [local_pilot_adoption_vs_no_action_sim.py](simulations/local_pilot_adoption_vs_no_action_sim.py) — شفرة المحاكاة
-- [local_pilot_adoption_vs_no_action_results.csv](simulations/local_pilot_adoption_vs_no_action_results.csv) — نتائج المحاكاة CSV
 
 ```text
 اختيار موقع التجربة
