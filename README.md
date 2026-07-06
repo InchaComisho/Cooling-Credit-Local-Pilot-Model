@@ -12,6 +12,20 @@ Related NOTE article: [クーリングクレジット小規模導入モデル](h
 
 ---
 
+## Simulation Results
+
+![Simulation Results: Local Pilot Implementation vs No Action](images/Cooling-Credit-Local-Pilot-Model.png)
+
+This figure presents a conceptual comparison between continuing a Cooling Credit local pilot and taking no action. The left chart shows the Heat Burden Index: by 2036, No Action rises to 131.8, while Local Pilot Implementation is limited to 109.8. The right chart shows scale-up: implementation sites grow from 1 to 80, and Local Cooling Points increase from 0.1 to 159.0.
+
+This is not a forecast, but a structural comparison model showing the difference in accumulated local cooling capacity when communities measure, cool, and record their actions.
+
+- [Simulation explanation](docs/LOCAL_PILOT_ADOPTION_SIMULATION.md)
+- [Simulation code](simulations/local_pilot_adoption_vs_no_action_sim.py)
+- [Simulation results CSV](simulations/local_pilot_adoption_vs_no_action_results.csv)
+
+---
+
 ## Implementation Links
 
 This repository is designed not only as a conceptual document, but also as a practical toolkit for local implementation.
@@ -23,8 +37,6 @@ This repository is designed not only as a conceptual document, but also as a pra
 - [local_cooling_mrv_template.csv](templates/local_cooling_mrv_template.csv) — Local cooling MRV record sheet
 - [cooling_point_record_sheet.csv](templates/cooling_point_record_sheet.csv) — Local Cooling Point ledger
 - [pilot_site_checklist.md](templates/pilot_site_checklist.md) — Small-scale pilot checklist
-- [local_pilot_adoption_vs_no_action_sim.py](simulations/local_pilot_adoption_vs_no_action_sim.py) — Simulation code
-- [local_pilot_adoption_vs_no_action_results.csv](simulations/local_pilot_adoption_vs_no_action_results.csv) — Simulation results CSV
 
 ```text
 Select a pilot site
