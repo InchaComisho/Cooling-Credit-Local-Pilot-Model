@@ -18,10 +18,13 @@
 
 - [docs/README_ar.md](docs/README_ar.md) — فهرس الوثائق
 - [MINIMUM_MRV_PROTOCOL_ar.md](docs/MINIMUM_MRV_PROTOCOL_ar.md) — بروتوكول MRV الأدنى
+- [LOCAL_PILOT_ADOPTION_SIMULATION_ar.md](docs/LOCAL_PILOT_ADOPTION_SIMULATION_ar.md) — محاكاة مقارنة بين التنفيذ المحلي وعدم التنفيذ
 - [templates/README_ar.md](templates/README_ar.md) — فهرس القوالب
 - [local_cooling_mrv_template.csv](templates/local_cooling_mrv_template.csv) — نموذج تسجيل MRV للتبريد المحلي
 - [cooling_point_record_sheet.csv](templates/cooling_point_record_sheet.csv) — سجل نقاط التبريد المحلية
 - [pilot_site_checklist_ar.md](templates/pilot_site_checklist_ar.md) — قائمة تحقق للتجربة المحلية الصغيرة
+- [local_pilot_adoption_vs_no_action_sim.py](simulations/local_pilot_adoption_vs_no_action_sim.py) — شفرة المحاكاة
+- [local_pilot_adoption_vs_no_action_results.csv](simulations/local_pilot_adoption_vs_no_action_results.csv) — نتائج المحاكاة CSV
 
 ```text
 اختيار موقع التجربة
