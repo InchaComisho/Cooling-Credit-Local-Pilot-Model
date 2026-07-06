@@ -18,10 +18,13 @@
 
 - [docs/README_ja.md](docs/README_ja.md) — ドキュメント索引
 - [MINIMUM_MRV_PROTOCOL_ja.md](docs/MINIMUM_MRV_PROTOCOL_ja.md) — 最小MRVプロトコル
+- [LOCAL_PILOT_ADOPTION_SIMULATION_ja.md](docs/LOCAL_PILOT_ADOPTION_SIMULATION_ja.md) — 導入した場合と実行しなかった場合の比較シミュレーション
 - [templates/README_ja.md](templates/README_ja.md) — テンプレート索引
 - [local_cooling_mrv_template.csv](templates/local_cooling_mrv_template.csv) — 地域冷却MRV記録表
 - [cooling_point_record_sheet.csv](templates/cooling_point_record_sheet.csv) — 地域冷却ポイント台帳
 - [pilot_site_checklist_ja.md](templates/pilot_site_checklist_ja.md) — 小規模導入チェックリスト
+- [local_pilot_adoption_vs_no_action_sim.py](simulations/local_pilot_adoption_vs_no_action_sim.py) — 比較シミュレーションコード
+- [local_pilot_adoption_vs_no_action_results.csv](simulations/local_pilot_adoption_vs_no_action_results.csv) — シミュレーション結果CSV
 
 ```text
 場所を決める
