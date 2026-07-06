@@ -1,0 +1,23 @@
+year,scenario,implementation_sites,mrv_coverage_ratio,local_cooling_capacity_index,local_cooling_points,heat_burden_index,risk_reduction_proxy
+2026,No Action,0,0.0,0.0,0.0,100.0,0.0
+2026,Local Pilot Implementation,1,0.15,0.09,0.135,99.888,0.202
+2027,No Action,0,0.0,0.0,0.0,102.8,5.04
+2027,Local Pilot Implementation,2,0.225,0.222,0.5,102.522,0.5
+2028,No Action,0,0.0,0.0,0.0,105.678,10.221
+2028,Local Pilot Implementation,2,0.3,0.421,1.262,105.152,0.947
+2029,No Action,0,0.0,0.0,0.0,108.637,15.547
+2029,Local Pilot Implementation,4,0.375,0.722,2.708,107.735,1.625
+2030,No Action,0,0.0,0.0,0.0,111.679,21.023
+2030,Local Pilot Implementation,6,0.45,1.184,5.328,110.199,2.664
+2031,No Action,0,0.0,0.0,0.0,114.806,26.651
+2031,Local Pilot Implementation,9,0.525,1.894,9.946,112.438,4.262
+2032,No Action,0,0.0,0.0,0.0,118.021,32.438
+2032,Local Pilot Implementation,14,0.6,2.991,17.945,114.282,6.73
+2033,No Action,0,0.0,0.0,0.0,121.325,38.386
+2033,Local Pilot Implementation,21,0.675,4.686,31.631,115.468,10.544
+2034,No Action,0,0.0,0.0,0.0,124.723,44.501
+2034,Local Pilot Implementation,33,0.75,7.31,54.823,115.585,16.447
+2035,No Action,0,0.0,0.0,0.0,128.215,50.787
+2035,Local Pilot Implementation,52,0.825,11.372,93.823,113.999,25.588
+2036,No Action,0,0.0,0.0,0.0,131.805,57.249
+2036,Local Pilot Implementation,80,0.9,17.666,158.998,109.805,39.6
