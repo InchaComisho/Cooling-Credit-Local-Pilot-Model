@@ -18,10 +18,13 @@ This repository is designed not only as a conceptual document, but also as a pra
 
 - [docs/README.md](docs/README.md) — Documentation index
 - [MINIMUM_MRV_PROTOCOL.md](docs/MINIMUM_MRV_PROTOCOL.md) — Minimum MRV Protocol
+- [LOCAL_PILOT_ADOPTION_SIMULATION.md](docs/LOCAL_PILOT_ADOPTION_SIMULATION.md) — Simulation comparing local implementation and no action
 - [templates/README.md](templates/README.md) — Templates index
 - [local_cooling_mrv_template.csv](templates/local_cooling_mrv_template.csv) — Local cooling MRV record sheet
 - [cooling_point_record_sheet.csv](templates/cooling_point_record_sheet.csv) — Local Cooling Point ledger
 - [pilot_site_checklist.md](templates/pilot_site_checklist.md) — Small-scale pilot checklist
+- [local_pilot_adoption_vs_no_action_sim.py](simulations/local_pilot_adoption_vs_no_action_sim.py) — Simulation code
+- [local_pilot_adoption_vs_no_action_results.csv](simulations/local_pilot_adoption_vs_no_action_results.csv) — Simulation results CSV
 
 ```text
 Select a pilot site
