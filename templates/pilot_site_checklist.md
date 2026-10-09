@@ -1,5 +1,7 @@
 # Small-Scale Pilot Site Checklist
 
+[日本語版はこちら / Japanese version](pilot_site_checklist_ja.md)
+
 ## Pre-Implementation Checklist for Local Cooling Credit Pilots
 
 This checklist is intended for schools, shopping streets, parks, farms, shelters, bus stops, public facilities, and other local sites before starting a small-scale Cooling Credit pilot.
