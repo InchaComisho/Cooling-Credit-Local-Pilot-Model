@@ -19,7 +19,7 @@
 ## チェックリスト
 
 - [pilot_site_checklist_ja.md](pilot_site_checklist_ja.md)
-- [pilot_site_checklist.md](pilot_site_checklist.md)
+- [pilot_site_checklist.md](pilot_site_checklist_ja.md)
 - [pilot_site_checklist_ar.md](pilot_site_checklist_ar.md)
 
 小規模導入を始める前に、実施場所、測定準備、実施内容、安全確認、記録・公開方法を確認するためのチェックリスト。
